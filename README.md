@@ -23,7 +23,7 @@ class Attributes(Hartman5):
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,golang,vscode,cs,cpp,nodejs,css,html,react,selenium,aws,tailwind,idea,vscode,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=python,nodejs,golang,cs,cpp,css,html,react,selenium,aws,tailwind,idea,vscode,visualstudio" />
   </a>
 </p>
 
